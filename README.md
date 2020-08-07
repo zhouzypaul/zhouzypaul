@@ -1,5 +1,5 @@
 Hello World!!! \
-Wait, you're not "Wolrd"? \
+Wait, you're not "World"? \
 Anyways, welcome to my github profile :))
 
 My name is Zhiyuan "Paul" Zhou and I'm currently studying Applied Math & CS @ Brown University. I am passionate about new ideas and learning more about Data Science, Statistics, and Machine Learning. Come check out my [website](https://paulzhou69.github.io/) for more info! 
