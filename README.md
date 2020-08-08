@@ -2,13 +2,12 @@ Hello World!!! \
 Wait, you're not "World"? \
 Anyways, welcome to my github profile :))
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulzhou69%2Fpaulzhou69)](https://hits.seeyoufarm.com)
-
 My name is Zhiyuan "Paul" Zhou and I'm currently studying Applied Math & CS @ Brown University. I am passionate about new ideas and learning more about Data Science, Statistics, and Machine Learning. Come check out my [website](https://paulzhou69.github.io/) for more info! 
 
 <a href="https://paulzhou69.github.io/"><img src="https://raw.githubusercontent.com/paulzhou69/paulzhou69/master/banner.jpg" title="paulzhou" alt="paulzhou"></a>
 
-[![HitCount](http://hits.dwyl.com/paulzhou69/paulzhou69.svg)](http://hits.dwyl.com/paulzhou69/paulzhou69)
+<!-- [![HitCount](http://hits.dwyl.com/paulzhou69/paulzhou69.svg)](http://hits.dwyl.com/paulzhou69/paulzhou69) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulzhou69%2Fpaulzhou69)](https://hits.seeyoufarm.com)
 
 
 <!--
