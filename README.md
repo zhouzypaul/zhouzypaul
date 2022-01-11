@@ -2,16 +2,16 @@
 Wait, you're not "World"? \
 Anyways, welcome to my github profile :)) -->
 
-Hi! I am Zhiyuan "Paul" Zhou and I'm currently studying Applied Math & CS @ Brown University. I'm interested in Deep Reinforcement Learning, computational statistics, and AGI. Come check out my [website](https://paulzhou69.github.io/) for more info! 
+Hi! I am Zhiyuan "Paul" Zhou and I'm currently studying Applied Math & CS @ Brown University. I'm interested in Deep Reinforcement Learning, computational statistics, and AGI. Come check out my [website](https://zhouzypaul.github.io/) for more info! 
 
-<a href="https://paulzhou69.github.io/"><img src="https://raw.githubusercontent.com/paulzhou69/paulzhou69/master/banner.jpg" title="paulzhou" alt="paulzhou"></a>
+<a href="https://zhouzypaul.github.io/"><img src="https://raw.githubusercontent.com/zhouzypaul/zhouzypaul/master/banner.jpg" title="paulzhou" alt="paulzhou"></a>
 
-<!-- [![HitCount](http://hits.dwyl.com/paulzhou69/paulzhou69.svg)](http://hits.dwyl.com/paulzhou69/paulzhou69) -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpaulzhou69%2Fpaulzhou69)](https://hits.seeyoufarm.com)
+<!-- [![HitCount](http://hits.dwyl.com/zhouzypaul/zhouzypaul.svg)](http://hits.dwyl.com/paulzhou69/paulzhou69) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhouzypaul%2Fzhouzypaul)](https://hits.seeyoufarm.com)
 
 
 <!--
-**paulzhou69/paulzhou69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhouzypaul/zhouzypaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
