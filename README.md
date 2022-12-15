@@ -2,7 +2,7 @@
 Wait, you're not "World"? \
 Anyways, welcome to my github profile :)) -->
 
-Hi! I am Zhiyuan "Paul" Zhou and I'm currently studying Applied Math & CS @ Brown University. I'm interested in Deep Reinforcement Learning, computational statistics, and AGI. Come check out my [website](https://zhouzypaul.github.io/) for more info! 
+Hi! I am Zhiyuan "Paul" Zhou and I'm currently studying Applied Math & CS @ Brown University. I'm interested in Reinforcement Learning and Artificial Intelligence. Come check out my [website](https://zhouzypaul.github.io/) for more info! 
 
 <a href="https://zhouzypaul.github.io/"><img src="https://raw.githubusercontent.com/zhouzypaul/zhouzypaul/master/banner.jpg" title="paulzhou" alt="paulzhou"></a>
 
