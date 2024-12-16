@@ -2,7 +2,7 @@
 Wait, you're not "World"? \
 Anyways, welcome to my github profile :)) -->
 
-Hi! I am Zhiyuan "Paul" Zhou and I am currently a CS PhD student at UC Berkeley. I recently graduated from Brown University studying Applied Math & CS. Come check out my [website](https://zhouzypaul.github.io/) for more info!
+Hi! I am Zhiyuan "Paul" Zhou and I am currently a CS PhD student at UC Berkeley. I got my Sc.B. from Brown University studying Applied Math & CS. Come checkout my [website](https://zhouzypaul.github.io/) for more info!
 
 <!--
 <a href="https://zhouzypaul.github.io/">
